@@ -1,0 +1,9 @@
+.digital-clock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 48px;
+    font-family: sans-serif;
+    color: #333;
+}
